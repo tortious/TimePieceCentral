@@ -1,9 +1,15 @@
+Boss, you want this master list polished up for GitHub Markdown? I got you—it's already primed and ready to drop into a .md file. No fluff, just clean, scannable structure with headers, tables, and lists that render sharp on GitHub. If there's any tweak or extra dirt you need dug up on these brands, say the word. Here's the full kit: 
+
 # Homage Brand Master List (Normalized & GitHub-Ready)
+
 Boss, I scoped out those brands you wanted added—dug deep into the shadows of AliExpress, Reddit dives, and web intel to map 'em right. Consolidated the dupes like Corguet (that's Corgeut, already in), Phoibus (Phoibos, done), Murkur/Mercur (Mercure/Merkur overlap), Hrudoland (Hruodland, got it), and Beijing/Shanghai/Seagull (split 'em proper). No loose ends; I slotted the fresh ones into the master list, beefed up the homage map, shuffled the price tiers, and kept the rest tight. If any stinkers slip through, we pivot—no sweat. Here's the updated blueprint, ready to roll.
 
 ---
+
 ## 1) Homage Brand Master List (Normalized)
-> **Columns:** Brand → Typical Homage Targets (luxury references/styles) → Notes / Representative Lines
+
+> **Columns:** Brand → Typical Homage Targets (luxury references/styles) → Notes / representative lines
+
 | Brand | Typical Homage Targets | Notes / Representative Lines |
 |---|---|---|
 | **Sugess** | Glashütte Original dress, A. Lange aesthetics; classic/Breguet-style tourbillons | Uses Sea-Gull tourbillon bases (e.g., ST8230/8000 fam.); value tourbillons; QC can vary. |
@@ -98,7 +104,9 @@ Boss, I scoped out those brands you wanted added—dug deep into the shadows of 
 | **Wishdoit** | Richard Mille/sports chronos | Budget RM homages; autos; rugged designs. |
 
 ---
+
 ## 2) “Homage Map” (Luxury Reference → Brands Listed)
+
 - **Rolex Submariner / Explorer / GMT-Master II** → *San Martin, Pagani Design, Tandorio, Corgeut, Phylida, Loreo, Tevise, Bliger, Burei, Ironwatch, Shanghai Watch*
 - **Rolex Daytona** → *Pagani Design, Benyar, RollsTimi*
 - **Rolex Yacht-Master** → *Phylida, Pagani Design*
@@ -127,33 +135,58 @@ Boss, I scoped out those brands you wanted added—dug deep into the shadows of 
 - **Tag Heuer Formula 1** → *CRRJU*
 
 ---
+
 ## 3) Originators / Luxury & Mainstream Brands (Not Homages)
+
 **Omega, Tudor, Blancpain, Grand Seiko, NOMOS Glashütte, Longines, Oris, Sinn, TAG Heuer, Rado, Maurice Lacroix, Montblanc, Tissot, Certina, Mido, Hamilton, Seiko, Citizen, Yema, Baltic, Nodus, Zelos, Christopher Ward, Dan Henry, Maen, Vero, Studio Underd0g, Atelier Wen, Orient, Timex, Casio, Mondaine, Bulova, Norqain, Islander** (house brand, original mixes), **Proxima** (more original-leaning builds alongside inspired pieces), **Beijing Watch, Shanghai Watch, Seagull** (heritage originals), **Agekicer** (high complications), **HUASUO** (lacquer dress), **Jianghun** (original sports), **Mr Jones Watches** (whimsical originals), **Pierre Paulin** (jump hour dress), **Hestur** (tactical solar).
+
 > **Note:** **Islander** is the **Long Island Watch** house brand (originals + familiar vibes), while **Long Island Watch** and **Island Watches** refer to the retailer.
 
 ---
+
 ## 4) Companies To Check Out — Price Tiers (Broad MSRP for *New*)
+
 **Tiers:** Budget (< $150) • Value ($150–$400) • Mid ($400–$1k) • Upper-Mid ($1k–$3k) • Entry Luxury ($3k–$6k) • Luxury ($6k+)
+
 ### Budget (< $150)
+
 Benyar • Tevise • Loreo • Guanqin • Starking • Cadisen • Phylida • **Corgeut** • Berny • **Addiesdive** (select) • Top Hill • IXDAO • **Specht & Söhne** • Swan & Edgar • Armitron • Aknight • Burei • Chameri • CRRJU • Duka • Flieger • Foxbox • Mini Focus • Mysterious Code • Rdunae • Red Star • RollsTimi • Sanda • Seakoss • SH • Skmei • Synoke • Wishdoit
+
 ### Value ($150–$400)
+
 Pagani Design • Seestern • Steeldive • Tandorio • **Heimdallr** (some) • **Proxima** (some) • Baltany • Escapement Time • Parnis • **Aesop** • HAIQIN • **Addiesdive** • Watchdives (house runs) • Boderry • Steelflier • Farasute • Yelang • Duxot (some) • Invicta (common SKUs) • Islander (entry SKUs) • Acquatico • Bettimer • Bliger • Bormon • Duriueu • Grmontre • Hestur • HUASUO • Ironwatch • IW Carnival • Jianghun • Lobinni • Merkur • Octopus • Phorcydes • Pierre Paulin • Pierre Philippe • Rimalti/Rmalti • Sea Knight • Tactical Frog • Thomas Earnshaw • Welly Merck
+
 ### Mid ($400–$1k)
+
 Tissot • Certina • Hamilton • **Seiko** (many 5/Prospex lower) • Citizen (higher lines) • Orient Star (if considered) • Mido • Yema (many) • Christopher Ward (entry) • Nodus • Zelos • Baltic (many) • Dan Henry • Maen • Vero • Islander (many) • Proxima (upper SKUs) • Studio Underd0g (launch pricing varies) • Atelier Wen (launches vary) • Mondaine • Bulova (Precisionist/curated) • Agekicer • Beijing Watch • Mr Jones Watches • Seagull • Shanghai Watch • Steinhart
+
 ### Upper-Mid ($1k–$3k)
+
 Longines • Rado • Sinn • Oris (entry models) • Maurice Lacroix (Aikon, etc.) • Montblanc (many) • Norqain (lower) • Seiko Prospex LX/King Seiko (select) • Christopher Ward (higher) • Yema (higher)
+
 ### Entry Luxury ($3k–$6k)
+
 Tudor • Grand Seiko (lower end) • TAG Heuer (many) • Oris (upper line) • Norqain (many) • NOMOS Glashütte (many)
+
 ### Luxury ($6k+)
+
 Omega (many) • Grand Seiko (higher) • Blancpain • Montblanc (high horology) • Rado special high-end ceramics (select) • Norqain (flagship) *(varies by spec)*
+
 ---
+
 ## 5) Quick “Who’s Who” (Stores vs Brands)
+
 - **Retailers / Marketplaces:** Long Island Watch (retailer), Island Watches (retailer reference), Watchdives (retailer; also commissions runs).
 - **House/Store Brands:** **Islander** (Long Island Watch).
 - **Brands (original focus):** Baltic, Zelos, Nodus, Christopher Ward, Dan Henry, Maen, Vero, Studio Underd0g, Atelier Wen, Yema, etc.
+
 ---
+
 ## 6) Open Items / Next Steps
+
 - **Pindu**: treat as an AliExpress **storefront/label** unless you want me to map specific models—share a link and I’ll add precise references.
 - If you want, I can export this to a **Google-Sheet-ready CSV** with columns for **brand • model • movement • size • WR • crystal • bracelet • price window • link • notes** and keep it updated as you add/remove items.
+
 ---
+
 *Last updated: 2025-09-05*
