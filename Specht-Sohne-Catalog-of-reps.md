@@ -88,3 +88,60 @@
 [35]: https://spechtandsohne.com/product-category/voyager/?utm_source=chatgpt.com "Voyager"
 [36]: https://spechtandsohne.com/product-category/zenith/?utm_source=chatgpt.com "Zenith"
 [37]: https://spechtandsohne.com/product-category/zenith-ii/?utm_source=chatgpt.com "Zenith II"
+
+
+___
+
+
+| Homage cluster                               | Specht lines                                               |
+| -------------------------------------------- | ---------------------------------------------------------- |
+| **Patek Philippe Nautilus**                  | Icon, Icon Quartz, Icon 24, Mariner                        |
+| **Patek Philippe Cubitus**                   | Cubic Automatic, Cubic-L Automatic, Cubic Quartz           |
+| **Audemars Piguet Royal Oak**                | Genta R, Genta S, Sceptre                                  |
+| **Vacheron Constantin 222**                  | Imperial, Imperial DS, Imperial SR, Imperial Quartz        |
+| **Vacheron Constantin Overseas**             | Voyager                                                    |
+| **Tissot PRX**                               | Zenith, Zenith II, Zenith Quartz                           |
+| **Cartier Santos / Santos-Dumont**           | Aviator, Dumont                                            |
+| **Jaeger-LeCoultre Reverso**                 | Inverso, likely DuoVista                                   |
+| **TAG Heuer Monaco**                         | Monaco, Monaco X                                           |
+| **Omega Speedmaster**                        | Chronomaster, Oceanmaster                                  |
+| **Bell & Ross**                              | Chrono                                                     |
+| **Piaget Polo 79**                           | Royale                                                     |
+| **Rolex 1908 / Land-Dweller**                | Meridian, Regal                                            |
+| **Seiko Navigator Timer / Prospex 1968 GMT** | Delta GMT                                                  |
+| **Modern niche independents**                | Contour = NAOYA HIDA NH Type 5A; Avant-Garde = ALTO ART 01 |
+
+____
+
+Best-looking homage targets in the catalog
+For your taste, the strongest ones are probably:
+
+
+Architekt — IWC Ingenieur homage
+
+
+Imperial DS / Imperial SR — Vacheron 222 homage
+
+
+Royale — Piaget Polo 79 homage
+
+
+Voyager — Vacheron Overseas homage
+
+
+Contour — NAOYA HIDA NH Type 5A homage
+
+
+Meridian — Rolex 1908 homage
+
+
+Inverso / DuoVista — JLC Reverso-style
+
+
+Icon 24 / Mariner — Nautilus-style
+
+
+Delta GMT — Seiko Navigator Timer-style
+
+
+The most overdone ones are the Nautilus, Royal Oak, Speedmaster, and PRX homages. The more interesting Specht pieces are the Contour, Royale, Imperial DS, Meridian, Delta GMT, and Inverso, because fewer cheap homage brands are doing those exact references.
